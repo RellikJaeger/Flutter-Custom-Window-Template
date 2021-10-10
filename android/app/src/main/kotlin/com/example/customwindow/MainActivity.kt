@@ -1,0 +1,6 @@
+package com.example.customwindow
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
